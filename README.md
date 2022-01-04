@@ -8,7 +8,9 @@
 ### Languages &#128187;
 
   - C/C++
-  - JavaScript 
+  - JavaScript
+  - NodeJs 
+  - Mongo DB
   - Framework React JS 
   - Bash
 
