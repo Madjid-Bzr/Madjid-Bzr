@@ -1,4 +1,4 @@
-### About me;
+### About me
 
 - 👋 Hi, I’m __@Madjid-Bzr__
 - 👀 Graduate in [Compuster Science](https://www.ummto.dz/)
