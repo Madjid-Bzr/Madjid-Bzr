@@ -12,6 +12,7 @@
   - NodeJs 
   - Mongo DB
   - Framework React JS 
+  - Java & Python
   - Bash
 
 ### Interests 
