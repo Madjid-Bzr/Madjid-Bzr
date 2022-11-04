@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m __@Madjid-Bzr__
 - 👀 Graduate in [Compuster Science](https://www.ummto.dz/)
-- 🌱 Currently in [Master HPCS](http://www.chps.uvsq.fr/)
+-  Graduate in [Master HPCS](http://www.chps.uvsq.fr/)
+- 🌱 Currently in [Master Artificial Intelligence Engineer](https://www.univ-paris8.fr/-Master-Ingenierie-en-Intelligence-Artificielle-I2A-)
 
 
 ### Languages &#128187;
