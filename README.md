@@ -1,8 +1,8 @@
 ### About me
 
-- 👋 Hi, I’m __@Madjid-Bzr__
+- 👋 Hi, I’m __Madjid BOUZOURENE__
 - 👀 Graduate in [Compuster Science](https://www.ummto.dz/)
--  Graduate in [Master HPCS](http://www.chps.uvsq.fr/)
+- :mortar_board: Graduate in [Master HPCS](http://www.chps.uvsq.fr/)
 - 🌱 Currently in [Master Artificial Intelligence Engineer](https://www.univ-paris8.fr/-Master-Ingenierie-en-Intelligence-Artificielle-I2A-)
 
 
