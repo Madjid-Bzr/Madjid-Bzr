@@ -5,7 +5,9 @@
 
 
 Welcome to my personal git account!
-I am a full stack developer and alsoDevOps
+
+I am a full stack developer and also DevOps
+
 Currently I live in Paris, France 🇫🇷
 
 - :mortar_board:  Graduate in [Computer Science](https://www.ummto.dz/)
