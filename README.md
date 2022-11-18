@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
+![MasterHead](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
 <h1 align="center">Hi 👋, I'm Madjid Bzr</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,15 +6,16 @@
 
 - 🔭 Graduate in [Computer Science](https://www.ummto.dz/)
 
-- 🌱 I'm currently learning **Angular**
-
 - 🔭 Graduate in [Master HPCS](http://www.chps.uvsq.fr/)
 
 - 🌱 Currently in [Master Artificial Intelligence Engineer](https://www.univ-paris8.fr/-Master-Ingenierie-en-Intelligence-Artificielle-I2A-)
 
+- 🌱 I'm currently learning **Angular**
 
-### Blogs posts
+
+### Interst
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 
