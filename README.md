@@ -8,20 +8,20 @@
 
 ### Languages &#128187;
 
-  - C/C++
+  - C/C++[![C][C]][C-url]
+  - Java 
+  - Python & R
   - JavaScript
   - NodeJs 
   - Mongo DB
-  - Framework React JS 
-  - Java & Python
-  - R
-  - Bash
+  - [![React][React.js]][React-url]
 
 ### Interests 
 
   - Web development programming 
   - Code optimization
   - Machine Learning 
+  - Cloud Computing
  
 <!---
 Madjid-Bzr/Madjid-Bzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
